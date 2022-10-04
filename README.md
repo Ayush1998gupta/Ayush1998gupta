@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Gupta</h1>
 <h3 align="center">A passionate Full Stack Web developer from India!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush1998gupta" alt="ayush1998gupta" /></a> </p>
-
 - 🚀 I’m currently looking for **a Job with a role of MERN Stack Web Developer.**
 
 - 🌱 I’m currently learning **MERN Stack & building Projects in public.**
